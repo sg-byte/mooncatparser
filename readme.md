@@ -14,7 +14,7 @@ Add `getInfo` function to parse the cat info. Please take a look at `examples` f
 |genesisColor|black/white| this value is only available if the cat is a genesis cat|
 |coat|solid/tabby/spotted/tortie| fur pattern |
 |face| smiling/grumpy/pouting/shy | face expression|
-|pose| standing/sleeping/poucing/stalking  | pose |
+|pose| standing/sleeping/pouncing/stalking  | pose |
 |paleness| true/false | color type |
 |direction| left/right| direction|
 |colors| colors is under 3 formats hsl, rgb and hex | color of the cat |
@@ -30,7 +30,7 @@ Example of the `catId=0x00d658d50b`:
     "genesisColor": "",
     "coat": "tabby",
     "face": "grumpy",
-    "pose": "poucing",
+    "pose": "pouncing",
     "paleness": true,
     "direction": "right",
     "colors": {

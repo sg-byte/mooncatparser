@@ -143,7 +143,7 @@
 		let poses = {
 		  '00': 'standing',
 		  '01': 'sleeping',
-		  '10': 'poucing',
+		  '10': 'pouncing',
 		  '11': 'stalking'
 		};
 	
